@@ -26,6 +26,7 @@ p {
 }
 .message p {
   color: #000057;
+  font-size: 2vw;
 }
 #moon {
   position: absolute;
